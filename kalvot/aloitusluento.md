@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Hannu Kärnä
-% 17.3.2021
+% 10.5.2021
 
 # Ohjaajat
 
@@ -9,7 +9,7 @@
 - Yhteyttä sähköpostilla tai telegrammissa kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- Kurssisivu https://tiralabra.github.io/2021_p4/
+- Kurssisivu https://tiralabra.github.io/2021_alkukesa/
 
 # Mistä kyse?
 
@@ -42,6 +42,7 @@
 - Esimerkkiaiheita:
     - Reitinhakualgoritmien vertaus
     - Pakkausalgoritmit
+    - Laskennallinen luovuus: musiikkia, tekstiä
     - Krypto
     - Peliratkaisijat (miinaharava, nonogrammi, pasianssit...)
         - Ks. miinaharavatemplaatti gitistä!
@@ -60,35 +61,32 @@
 # Kurssin kulku
 
 - **Deadlinet** kurssisivun aikataulun mukaan.
-    - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
-        - Ekalla viikolla poikkeuksellisesti 0-1
+    - Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
-    - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella
-    - Ohjaaja antavaa palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta, sähköpostilla tai telegrammista
+    - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen ja koodikatselmusten perusteella
+    - Ohjaaja antavaa palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa pyytää sähköpostilla tai telegrammissa
     - Lisäaikaa saa **hyvällä syyllä**, **etukäteen pyytämällä**
 
 # Kurssin kulku
 
-- Viikottaisten ohjaus maanantaisin ja tiistaisin aikataulun mukaan zoomissa
-    - Yksilöohjausta voidaan järjestää pyynnöstä kampuksella / Zoomissa
-    - Täysin vapaaehtoista
-    - **Paras väylä saada apua ja palautetta ohjaajilta**
-    - Telegram ei ole virallinen tietolähde, vaikka onkin kätevä
-    - Pajasta voi saada apua algoritmien ja tietorakenteiden toteutukseen myös muuhun aikaan
-
+- Ohjaus tapahtuu Zoomissa, ota yhteyttä niin sovitaan aika. Helpoimmin molemmille sopiva aika saadaan sovittua Telegramissa.
+- Labtoolissa ei kannata esittää kysymyksiä, jos tarvitset nopeaa apua, niistä ei tule ohjaajalle tietoa sähköpostiin.
+- Kurssin Telegram-kanavalta voi saada apua ohjaajalta tai muilta kurssilaisilta.
+    
 # Kurssin kulku
 
 - Deadline 4 ja 5 yhteydessä **koodikatselmointi**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
-    - Maksimipisteet katselmoinnista on **2**.
+    - Tärkeitä myös palautteen saajalle
+    - Maksimipisteet yhdestä katselmoinnista on **4**.
 
 # Kurssin kulku
 
 - Kurssin lopuksi pakollinen **demotilaisuus**
-    - Jokainen opiskelija esittelee muille projektiaan jotakuinkin 3-5 minuutin ajan
+    - Jokainen opiskelija esittelee muille projektiaan noin 5 minuutin ajan
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
 - Kurssilla **ei ole kurssikoetta**
@@ -96,8 +94,7 @@
 # Motivointi
 
 - Kyseessä on yksi LuK-tutkinnon mukavimmista kursseista - voit toteuttaa mitä itse haluat!
-- Jos jäät jumiin, tule juttelemaan ohjaajalle
-    - Olen täällä teitä varten!
+- Jos jäät jumiin, pyydä apua ohjaajalta matalalla kynnyksellä!
 - Tavallisesti kurssien keskeyttämisestä ei juuri seurauksia -- harjoitustyöt poikkeus
     - Kurssille pääsy vaikeutuu keskeyttämisen jälkeen
 
@@ -111,6 +108,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_p4/
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_alkukesa/
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
+
+# Kysymyksiä?
