@@ -117,9 +117,9 @@ Puhu joka tapauksessa ohjaajan kanssa *ennen ekaa palautusta*!
 
 Ei suositella. Voit kysyä ohjaajalta *ennen ekaa palautusta*!
 
-## Mitä pitää yksikkötestata?
+## Mitä pitää testata?
 
-Kaikki paitsi käyttöliittymä, suorituskykytestit ja mahdollisesti tiedostojen luku ja kirjoittaminen riippuen projektista.
+Yksikkötesteillä tulee testata kaikki paitsi käyttöliittymä, suorituskykytestit ja mahdollisesti tiedostojen luku ja kirjoittaminen riippuen projektista. Mieti mitä oman sovelluksesi toiminnan oikeellisuus tarkoittaa. Reitinhakualgoritmin tulee löytää lyhin reitti, jos se kuuluu algoritmin määritelmään, ja reitin ja sen etsinnän etenemisen pitää olla sen kaltainen kuin on tarkoitus. Labyrintin tai luolaston tulee olla yhtenäinen. Miinaharavabotti ei saa koskaan osua miinaan silloin, kun ruutua pidetään turvallisena. Pakatun tiedoston koon täytyy olla odotusten mukainen, ja sen tulee purkautua alkuperäiseksi. Shakkibotti ei saa tehdä laittomia siirtoja, ja sen on osattava tehdä matti, mikäli mahdollista sillä laskentasyvyydellä, johon päästään. Jos kattava oikeellisuustesti vie liikaa aikaa, kannattaa laittaa yksikkötesteihin vain pari edustavaa testitapausta ja tehdä lisäksi erillinen testipaketti. 
 
 ## Mikä kattavuus pitää olla prosentteina että on riittävästi?
 
