@@ -48,7 +48,7 @@ Others that are allowed are at least `charAt()`, `toCharArray()`, `getBytes()`, 
 
 Generally more complex functions are not allowed as these hide non-trivial functionality. Ask if unsure.
 
-Of course all string member functions are fine in the usere interface.
+Of course all string member functions are fine in the user interface.
 
 ## Is using `System.arraycopy` allowed?
 
@@ -56,7 +56,7 @@ See below.
 
 ## Is using functions / methods from the `Arrays` class allowed?
 
-in principle, no. However, for example, copying arrays without using `System.arraycopy` may be slow enough to become a bottle neck in the code, witch is not practical. In this case, you should document the performance difference and use built in functions.
+in principle, no. However, for example, copying arrays without using `System.arraycopy` may be slow enough to become a bottle neck in the code, which is not practical. In this case, you should document the performance difference and use built in functions.
 
 This may apply to member of `Arrays` as well.
 
@@ -98,7 +98,7 @@ In any case you should discuss with a course assistant *before the first deadlin
 
 This may even be recommended for some very challenging topics. For example in neural network projects, it is typically a good idea to use the ready made linear algebra functions in numpy, even in the final product. The standard list/set/dict implementations are typically not practical to replace, so the project should be sufficiently challenging even with these given.
 
-In either case, this is not recommended unless you are very familiar with python (including resting and code coverage reporting).
+In either case, this is not recommended unless you are very familiar with python (including testing and code coverage reporting).
 
 Most projects are written in Java. You may have to make your code reviews for a project written in an programming language you do not know. The feedback you get may be less useful for the corresponding reason. You probably won't get for code reviews projects of the same topic as yours.
 
