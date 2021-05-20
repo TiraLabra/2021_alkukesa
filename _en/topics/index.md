@@ -12,7 +12,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * How to find the fastest way possible out of a labyrinth. The labyrinth could be ASCII-art or a picture.
 
-* How to find the fastest/shortest path between two nodes in a grapth. The nodes could be for isntance street addresses, bus stops or coordinates. See this article if interested: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
+* How to find the fastest/shortest path between two nodes in a grapth. The nodes could be for isntance street addresses, bus stops or coordinates. See this article if interested: [http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html](http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html)
 
 * Compare at least two different path finding algorithms, one of which differs clearly from what you have learnt in Data structures and algorithms course. Eg. JPS, IDA\*, fringe search (complicated). A-star is not sufficient for the demanding algorithm.
 
