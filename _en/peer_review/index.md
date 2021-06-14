@@ -6,7 +6,7 @@ tag: info
 permalink: /en/peer_review/
 ---
 
-Code reviews are a part of the data structures project. The code reviews are worth 2 points each.
+Code reviews are a part of the data structures project. The code reviews are worth 4 points each.
 
 The intention of the code reviewing is to teach code reading comprehension and understnding of project structures. Sadly, code written by other people is not often read on courses, even tho good reading comprehension is an essential skill for a developer. A well conducted code review is a excellent way to find problems in programs and to fix issues as early as possible.
 
@@ -44,6 +44,6 @@ In your feedback you should tell the other student about the things you found th
 * Add the direct link to your issue to labtool
 * The course assistant will read adn grade the feedback as soon as possible after the deadline
 
-Each review is worth 0-2 points. At least 4 high quality pieces of constructive feedback typically yield 2 points. The feedback format is free but try to be as clear as possible. Split your feedback into different sections based on classes or topics. If you write you feedback as bullet points, try to write fill sentences and preferably several sentences. Don't attack people in your feedback! Also don't let received feedback get to you. At the time of the feedbacks the projects are still works in progress and changing. The reviewer may also have misunderstood your code/project ro may be giving faulty advice.
+Each review is worth 0-4 points. At least 4 high quality pieces of constructive feedback typically yield 4 points. The feedback format is free but try to be as clear as possible. Split your feedback into different sections based on classes or topics. If you write you feedback as bullet points, try to write fill sentences and preferably several sentences. Don't attack people in your feedback! Also don't let received feedback get to you. At the time of the feedbacks the projects are still works in progress and changing. The reviewer may also have misunderstood your code/project ro may be giving faulty advice.
 
 **N.B.** The project you are reviewing may have changed while you were working on the feedback. This is why the time and date is included in the feedback. On this course you do not need to pay attention to changes during making the feedback, and you are not required to check if simething you mention in the feedback has changed during writing. Some of the feedback may be out of date when it is submitted.

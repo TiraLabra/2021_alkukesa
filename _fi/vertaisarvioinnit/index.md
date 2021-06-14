@@ -6,7 +6,7 @@ tag: info
 permalink: /fi/vertaisarvioinnit/
 ---
 
-Vertaisarviointi (=Koodikatselmointi) on osa Tiran harjoitustyötä. Katselmoinnista voi saada maksimissaan 2 pistettä / kerta.
+Vertaisarviointi (=Koodikatselmointi) on osa Tiran harjoitustyötä. Katselmoinnista voi saada maksimissaan 4 pistettä / kerta.
 
 Tämän katselmoinnin perimmäinen tarkoitus on oppia hahmottamaan toisen henkilön kirjoittamaa koodia ja kokonaista ohjelmointiprojektia. Toisten koodia luetaan kursseilla toistaiseksi valitettavan vähän, vaikka sujuva koodinlukutaito on välttämätön taito ohjelmoijan työssä. Hyvin suoritettu katselmointi on tehokas tapa havaita ongelmakohtia ja korjata virheitä mahdollisimman varhaisessa vaiheessa ohjelmointiprojektia.
 
@@ -44,6 +44,6 @@ Palautteessasi kerro toiselle opiskelijalle, missä on parannettavaa. Mitä tark
 * Laita labtooliin suora linkki tekemääsi issueen jotta vertaisarviointi katsotaan tehdyksi.
 * Ohjaajat lukevat ja pisteyttävät annetun palautteen mahdollisimman pian deadlinen jälkeen.
 
-Katselmoinnista jaetaan 0-2 pistettä. Vähintään 4 laadukasta ja rakentavaa palautekommenttia riittää 2 pisteeseen. Palaute kirjoitetaan vapaamuotoisena, mutta yritä kirjoittaa selkeästi. Jaa palaute eri luokista eri kappaleisiin. Jos kirjoitat ranskalaisia viivoja, kirjoita kokonaisia lauseita tai mieluiten useita lauseita. Älä hyökkää palautteessa toista kohtaan! Toisaalta älä ota annettua palautetta itseesi - projektisihan on yhä kesken ja muokattavissa. Palautteen antajakin toisinaan ymmärtää väärin tai antaa virheellisiä ohjeita.
+Katselmoinnista jaetaan 0-4 pistettä. Vähintään 4 laadukasta ja rakentavaa palautekommenttia riittää 4 pisteeseen. Palaute kirjoitetaan vapaamuotoisena, mutta yritä kirjoittaa selkeästi. Jaa palaute eri luokista eri kappaleisiin. Jos kirjoitat ranskalaisia viivoja, kirjoita kokonaisia lauseita tai mieluiten useita lauseita. Älä hyökkää palautteessa toista kohtaan! Toisaalta älä ota annettua palautetta itseesi - projektisihan on yhä kesken ja muokattavissa. Palautteen antajakin toisinaan ymmärtää väärin tai antaa virheellisiä ohjeita.
 
 **Huom.** Katselmoinnin kohteen projekti saattaa elää tai päivittyä sillä aikaa, kun kirjoitat palautetta. Tämän vuoksi palautteeseen liitetään aika, jolloin projektin kävi lataamassa itsellensä. Muulla tavalla asiaan ei kiinnitetä tällä kurssilla huomiota, eikä katselmoijan tarvitse aktiivisesti yrittää tarkistaa, jos jokin asia onkin ehtinyt jo muuttumaan. Palaute voi siis olla osin jo vanhentunutta.
